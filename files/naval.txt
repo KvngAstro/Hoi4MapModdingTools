@@ -1,0 +1,3 @@
+gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds
+gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds
+gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds
